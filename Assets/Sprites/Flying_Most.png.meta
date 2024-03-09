@@ -1,0 +1,592 @@
+fileFormatVersion: 2
+guid: f2043c06c138c4f44ab29811cc1fa8fa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3517350032714766396
+    second: Flying_Most_0
+  - first:
+      213: -9166112367168595707
+    second: Flying_Most_1
+  - first:
+      213: 8466964316928314458
+    second: Flying_Most_2
+  - first:
+      213: 4359709169175761639
+    second: Flying_Most_3
+  - first:
+      213: 8740359921869664110
+    second: Flying_Most_4
+  - first:
+      213: -1244252554534169702
+    second: Flying_Most_5
+  - first:
+      213: 6360890013138467101
+    second: Flying_Most_6
+  - first:
+      213: -9081767713906541833
+    second: Flying_Most_7
+  - first:
+      213: 8294733648090620245
+    second: Flying_Most_8
+  - first:
+      213: 6716637783395252066
+    second: Flying_Most_9
+  - first:
+      213: -1286634890914813988
+    second: Flying_Most_10
+  - first:
+      213: -7505842155434390106
+    second: Flying_Most_11
+  - first:
+      213: 9034234603313652520
+    second: Flying_Most_12
+  - first:
+      213: 7803662695396945610
+    second: Flying_Most_13
+  - first:
+      213: -2538875711476498197
+    second: Flying_Most_14
+  - first:
+      213: -7976105703927998754
+    second: Flying_Most_15
+  - first:
+      213: 3919985344260105994
+    second: Flying_Most_16
+  - first:
+      213: -1351080415592744025
+    second: Flying_Most_17
+  - first:
+      213: -1277441798519933012
+    second: Flying_Most_18
+  - first:
+      213: 2279951936013768942
+    second: Flying_Most_19
+  - first:
+      213: 2780889293060305185
+    second: Flying_Most_20
+  - first:
+      213: -2015499018968926047
+    second: Flying_Most_21
+  - first:
+      213: -1757225715720325643
+    second: Flying_Most_22
+  - first:
+      213: -8023297871573444680
+    second: Flying_Most_23
+  - first:
+      213: 640240478712334826
+    second: Flying_Most_24
+  - first:
+      213: 8332605324355886090
+    second: Flying_Most_25
+  - first:
+      213: -2529768334981989585
+    second: Flying_Most_26
+  - first:
+      213: -3877342628155668684
+    second: Flying_Most_27
+  - first:
+      213: -3763869600021845169
+    second: Flying_Most_28
+  - first:
+      213: -5036565787062263907
+    second: Flying_Most_29
+  - first:
+      213: -7912199314374207016
+    second: Flying_Most_30
+  - first:
+      213: 1368688289326989304
+    second: Flying_Most_31
+  - first:
+      213: 2280281454142096918
+    second: Flying_Most_32
+  - first:
+      213: -5473951471920843686
+    second: Flying_Most_33
+  - first:
+      213: -2181269706258598139
+    second: Flying_Most_34
+  - first:
+      213: -8949649688593666882
+    second: Flying_Most_35
+  - first:
+      213: 2926866999551929446
+    second: Flying_Most_36
+  - first:
+      213: 3302166669216790848
+    second: Flying_Most_37
+  - first:
+      213: -5359647626475098124
+    second: Flying_Most_38
+  - first:
+      213: -3502201467936905845
+    second: Flying_Most_39
+  - first:
+      213: 1075668982425448911
+    second: Flying_Most_40
+  - first:
+      213: 5405820680035992917
+    second: Flying_Most_41
+  - first:
+      213: 8764521319414599976
+    second: Flying_Most_0
+  - first:
+      213: -4314637090424501464
+    second: Flying_Most_1
+  - first:
+      213: -5213523909390100070
+    second: Flying_Most_4
+  - first:
+      213: 2892611645458504168
+    second: Flying_Most_7
+  - first:
+      213: -8222193126280166775
+    second: Flying_Most_8
+  - first:
+      213: 6439063582497397910
+    second: Flying_Most_9
+  - first:
+      213: -6854953069861247419
+    second: Flying_Most_10
+  - first:
+      213: -2219927938440309057
+    second: Flying_Most_11
+  - first:
+      213: 6360755373772246938
+    second: Flying_Most_12
+  - first:
+      213: -9090511693862901036
+    second: Flying_Most_13
+  - first:
+      213: -3558402443427966711
+    second: Flying_Most_14
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Flying_Most_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8219b0e14b5d1a970800000000000000
+      internalID: 8764521319414599976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_Most_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82bc58a1d645f14c0800000000000000
+      internalID: -4314637090424501464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_Most_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c8b64bf23b08570800000000000000
+      internalID: 8466964316928314458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_Most_3
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e21cb0046cc08c30800000000000000
+      internalID: 4359709169175761639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_Most_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a991cc870a7d5a7b0800000000000000
+      internalID: -5213523909390100070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_Most_5
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a935e1cd4e68bbee0800000000000000
+      internalID: -1244252554534169702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_Most_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d19b278f3cb664850800000000000000
+      internalID: 6360890013138467101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_Most_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e956b047fe942820800000000000000
+      internalID: 2892611645458504168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_Most_8
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98289692ae6e4ed80800000000000000
+      internalID: -8222193126280166775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_Most_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c59e076362c5950800000000000000
+      internalID: 6439063582497397910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_Most_10
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54662f680805ed0a0800000000000000
+      internalID: -6854953069861247419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_Most_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6dc4a3d4b3131e0800000000000000
+      internalID: -2219927938440309057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_Most_12
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f0adccf41f54850800000000000000
+      internalID: 6360755373772246938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_Most_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da64cc27c308d180800000000000000
+      internalID: -9090511693862901036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_Most_14
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9011897b4d30e9ec0800000000000000
+      internalID: -3558402443427966711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
